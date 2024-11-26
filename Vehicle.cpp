@@ -3,6 +3,7 @@
 // November 26, 2024
 
 #include <iostream>
+#include <string>
 #include "Vehicle.h"
 using namespace std;
 
